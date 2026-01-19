@@ -1,0 +1,2 @@
+# Uncomment to load the flake devShell via direnv. Requires direnv with flake support; otherwise, use `nix develop`
+# use flake
